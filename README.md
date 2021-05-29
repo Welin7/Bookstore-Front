@@ -10,4 +10,4 @@ Versão CLI: Vue CLI 3
 *npm run serve
 
 # Back-End
-https://github.com/MichelliBrito/produtos-apirest
+https://github.com/Welin7/BookstoreApi_MongoDb
